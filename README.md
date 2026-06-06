@@ -19,7 +19,7 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/header-animation.svg" alt="Redoyanul Haque - AI Developer" width="100%"/>
+  <img src="./assets/header-animation.svg" alt=" Hrithik Uday - Python Full Stack Developer" width="100%"/>
   
   <br/>
   
